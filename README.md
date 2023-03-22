@@ -33,7 +33,7 @@
 
 <a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/lamia-alsiddiqi-5ba904227/
 ">Lamia AlSiddiqi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
-">Lamia AlSiddiqi</a>
+">Ohoud AlAjmi</a>
 
 
 <h2> Project ERD </h2>
