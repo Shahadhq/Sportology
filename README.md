@@ -36,14 +36,14 @@
 
 
 <h2> Project ERD </h2>
- <img align="left" src="ReadMed-Challenge-Summery.png"> 
+ <img align="left" src="Sportology_ERD.png"> 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SwiftUI-img]: https://img.shields.io/badge/-Xcode-blue
 [SwiftUI-url]: https://developer.apple.com/xcode
-[Sketch-img]: https://img.shields.io/badge/-Sketch-yellow
+[Sketch-img]: https://img.shields.io/badge/-Vapor-yellow
 [Sketch-url]: https://www.sketch.com!
 
 [vapor-img]: https://img.shields.io/badge/-Vapor-purpule
