@@ -24,7 +24,7 @@
 
 <h2>Tools:</h2>
 
-[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
+[![Xcode][Xcode-img]][Xcode-url] [![vapor][vapor-img]][vapor-url]
 
 
 <h2>Team:</h2>
