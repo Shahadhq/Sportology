@@ -32,7 +32,8 @@
 <br>Team 14</br>
 
 <a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
-">Razan Rubui</a>
+">Lamia AlSiddiqi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
+">Lamia AlSiddiqi</a>
 
 
 <h2> Project ERD </h2>
