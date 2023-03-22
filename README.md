@@ -31,7 +31,7 @@
 
 <br>Team 14</br>
 
-<a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
+<a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/lamia-alsiddiqi-5ba904227/
 ">Lamia AlSiddiqi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
 ">Lamia AlSiddiqi</a>
 
@@ -42,11 +42,10 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[SwiftUI-img]: https://img.shields.io/badge/-Xcode-blue
-[SwiftUI-url]: https://developer.apple.com/xcode
-[Sketch-img]: https://img.shields.io/badge/-Vapor-yellow
-[Sketch-url]: https://www.sketch.com!
-
-[vapor-img]: https://img.shields.io/badge/-Vapor-purpule
+[Xcode-img]: https://img.shields.io/badge/-Xcode-blue
+[Xcode-url]: https://developer.apple.com/xcode
+[vapor-img]:  https://img.shields.io/badge/-Vapor-yellow
 [vapor-url]: https://vapor.codes
+
+
 
